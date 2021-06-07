@@ -1,4 +1,4 @@
-<h1 align="center">Hi, Visitor, I'm Manish, Welcome to my poifile </h1>
+<h1 align="center">Hi, Visitor, I'm Manish, Welcome to my pofile </h1>
 <p align="center">
   <img src=https://github.com/Lakhiwal/Lakhiwal/blob/main/images/background.gif height="240"/>
 </p>
