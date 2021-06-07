@@ -5,7 +5,7 @@
 <h3 align="center">Programmer | Gamer | Content Writer </h3>
 <em></em>
 <p align="center">Pages where you van follow me</p>
-<div align="center"><a target="_blank" href="https://www.linkedin.com/in/manish-lakhiwal/">●🇱​🇮​🇳​🇰​🇪​🇩​🇮​🇳​</a> ●
+<div align="center">●<a target="_blank" href="https://www.linkedin.com/in/manish-lakhiwal/">🇱​🇮​🇳​🇰​🇪​🇩​🇮​🇳​</a> ●
   <a target="_blank" href="https://www.instagram.com/manishlakhiwal10/">🇮​🇳​🇸​🇹​🇦​🇬​🇷​🇦​🇲​</a> ●
   <a target="_blank" href="https://www.facebook.com/lakhiwalmanish/">🇫​🇦​🇨​🇪​🇧​🇴​🇴​🇰​</a> ●
   <a target="_blank" href="https://open.spotify.com/user/31ioowdi3bgwgm2bozo73v257v4m">🇸​🇵​🇴​🇹​🇮​🇫​🇾​</a>
