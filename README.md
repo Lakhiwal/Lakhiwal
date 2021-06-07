@@ -9,7 +9,7 @@
   <a target="_blank" href="https://www.instagram.com/manishlakhiwal10/">🇮​🇳​🇸​🇹​🇦​🇬​🇷​🇦​🇲​</a> ●
   <a target="_blank" href="https://www.facebook.com/lakhiwalmanish/">🇫​🇦​🇨​🇪​🇧​🇴​🇴​🇰​</a> ●
   <a target="_blank" href="https://open.spotify.com/user/31ioowdi3bgwgm2bozo73v257v4m">🇸​🇵​🇴​🇹​🇮​🇫​🇾​</a>
-</div>
+</div><br><br><br>
 -  🔭 I’m currently working on improving my skills.<br>
 -  🌱 I’m currently learning Python.
 <!--
