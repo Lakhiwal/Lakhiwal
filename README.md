@@ -1,6 +1,6 @@
 <h1 align="center">Hi, Visitor. I'm Manish, Welcome to my pofile </h1>
 <p align="center">
-  <img src=https://github.com/Lakhiwal/Lakhiwal/blob/main/images/background.gif width=100%/>
+  <img src=https://github.com/Lakhiwal/Lakhiwal/blob/main/images/background.gif height=450px/>
 </p>
 <h3 align="center">Programmer | Gamer | Content Writer </h3>
 <p align="center">Pages where you van follow me</p>
