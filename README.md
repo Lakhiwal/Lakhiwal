@@ -3,6 +3,7 @@
   <img src=https://github.com/Lakhiwal/Lakhiwal/blob/main/images/background.gif height="240"/>
 </p>
 <h3 align="center">Programmer | Gamer | Content Writer </h3>
+<p>Pages where you van follow me</p>
 <a target="_blank" href="https://www.linkedin.com/in/manish-lakhiwal/">🇱​🇮​🇳​🇰​🇪​🇩​🇮​🇳​</a> ●
   <a target="_blank" href="https://www.instagram.com/manishlakhiwal10/">🇮​🇳​🇸​🇹​🇦​🇬​🇷​🇦​🇲​</a> ●
   <a target="_blank" href="https://www.facebook.com/lakhiwalmanish/">🇫​🇦​🇨​🇪​🇧​🇴​🇴​🇰​</a> ●
