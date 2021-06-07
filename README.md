@@ -1,7 +1,7 @@
 <h1 align="center">Hi, Visitor, I'm Manish, Welcome to my poifile </h1>
 <hr>
 <p align="center">
-  <img src=C:\Users\lakhi\Downloads\background.gif height="240"/>
+  <img src=https://github.com/Lakhiwal/Lakhiwal/blob/main/images/background.gif height="240"/>
 </p>
 <hr>
 <h1 align="center">Manish Kumar Lakhiwal </h1>
