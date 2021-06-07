@@ -2,8 +2,6 @@
 <p align="center">
   <img src=https://github.com/Lakhiwal/Lakhiwal/blob/main/images/background.gif height="240"/>
 </p>
-<hr>
-<h1 align="center">Manish Kumar Lakhiwal </h1>
 <h3 align="center">Programmer | Gamer | Content Writer </h3>
 
 
