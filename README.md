@@ -1,4 +1,12 @@
-### Hi there 👋
+<h1 align="center">Hi, Visitor, I'm Manish, Welcome to my poifile </h1>
+<hr>
+<p align="center">
+  <img src=C:\Users\lakhi\Downloads\background.gif height="240"/>
+</p>
+<hr>
+<h1 align="center">Manish Kumar Lakhiwal </h1>
+<h3 align="center">Java Programmer | Software Engineer | Gamer | Content Writer </h3>
+
 
 <!--
 **Lakhiwal/Lakhiwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
