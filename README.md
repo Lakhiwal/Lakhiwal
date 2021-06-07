@@ -4,7 +4,7 @@
 </p>
 <hr>
 <h1 align="center">Manish Kumar Lakhiwal </h1>
-<h3 align="center">Java Programmer | Software Engineer | Gamer | Content Writer </h3>
+<h3 align="center">Programmer | Gamer | Content Writer </h3>
 
 
 <!--
