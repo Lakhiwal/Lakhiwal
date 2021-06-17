@@ -3,8 +3,12 @@
   <img src=https://github.com/Lakhiwal/Lakhiwal/blob/main/images/background.gif height=450px/>
 </p>
 <h3 align="center">Programmer | Gamer | Content Writer </h3>
+Languages & Tools...
+<p style="center">
 <em></em>
-<p align="center">
+<p align="center"> 
+<img src="https://github.com/Lakhiwal/Lakhiwal/blob/main/resources/java.svg" alt="java" style="certical-align:top; margin:4px"></img>
+</p>
     <img align="center" alt="visitors" src="https://gpvc.arturio.dev/Lakhiwal" />
 </p>
 
