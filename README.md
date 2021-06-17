@@ -13,8 +13,11 @@
 -  🔭 I’m currently working on improving my skills.<br>
 -  🌱 I’m currently learning Python.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lakhiwal&layout=compact&theme=highcontrast)](https://github.com/mikeowino/)
-![Lakhiwal's github stats](https://github-readme-stats.vercel.app/api?username=Lakhiwal&count_private=true&show_icons=true&theme=highcontrast)
+### :zap: Github Stats
+
+  <img align="left" src="https://github-readme-stats.Lakhiwal.vercel.app/api?username=Sumanth-Talluri&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Sumanth's Github Stats" width="60%">
+  
+<img src="https://github-readme-stats.sumanth-Lakhiwal.app/api/top-langs/?username=Sumanth-Talluri&show_icons=true&hide_border=true&theme=radical" width="37%" alt="Sumanth's Top Languages">
 
 
 <!--
