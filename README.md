@@ -3,7 +3,7 @@
   <img src=https://github.com/Lakhiwal/Lakhiwal/blob/main/images/background.gif height=450px/>
 </p>
 <h3 align="center">Programmer | Gamer | Content Writer </h3>
-Languages & Tools...
+<p align="center">Languages & Tools...
 <p style="center">
 <em></em>
 <p align="center"> 
