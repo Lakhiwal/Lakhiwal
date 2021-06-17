@@ -8,6 +8,12 @@ Languages & Tools...
 <em></em>
 <p align="center"> 
 <img src="https://github.com/Lakhiwal/Lakhiwal/blob/main/resources/java.svg" alt="java" style="certical-align:top; margin:4px"></img>
+<img src="https://github.com/Lakhiwal/Lakhiwal/blob/main/resources/python.svg" alt="python" style="certical-align:top; margin:4px"></img>
+<img src="https://github.com/Lakhiwal/Lakhiwal/blob/main/resources/csharp.svg" alt="c#" style="certical-align:top; margin:4px"></img>
+<img src="https://github.com/Lakhiwal/Lakhiwal/blob/main/resources/java.svg" alt="java" style="certical-align:top; margin:4px"></img>
+<img src="https://github.com/Lakhiwal/Lakhiwal/blob/main/resources/java.svg" alt="java" style="certical-align:top; margin:4px"></img>
+<img src="https://github.com/Lakhiwal/Lakhiwal/blob/main/resources/java.svg" alt="java" style="certical-align:top; margin:4px"></img>
+<img src="https://github.com/Lakhiwal/Lakhiwal/blob/main/resources/java.svg" alt="java" style="certical-align:top; margin:4px"></img>
 </p>
     <img align="center" alt="visitors" src="https://gpvc.arturio.dev/Lakhiwal" />
 </p>
