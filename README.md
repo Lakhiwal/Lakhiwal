@@ -15,6 +15,7 @@ Languages & Tools...
 <img src="https://github.com/Lakhiwal/Lakhiwal/blob/main/resources/html.svg" alt="html" style="certical-align:top; margin:4px"></img>
 <img src="https://github.com/Lakhiwal/Lakhiwal/blob/main/resources/visualstudio_code.svg" alt="java" style="certical-align:top; margin:4px"></img>
 </p>
+<p>
     <img align="center" alt="visitors" src="https://gpvc.arturio.dev/Lakhiwal" />
 </p>
 
