@@ -13,13 +13,10 @@
 -  🔭 I’m currently working on improving my skills.<br>
 -  🌱 I’m currently learning Python.
 
-<h2 align="center">My Github Stats</h2>
-<p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lakhiwal&&layout=compact&bg_color=0,73FA79,73FDFF,7A81FF&theme=graywhite">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Lakhiwal&count_private=true&show_icons=trueline_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite">	
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Lakhiwal&theme=dracula">
-<img align="center" src="https://github-profile-trophy.vercel.app/?username=Lakhiwal&theme=onedark">
-</p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lakhiwal&layout=compact&theme=highcontrast)](https://github.com/mikeowino/)
+![MikeOwino's github stats](https://github-readme-stats.vercel.app/api?username=Lakhiwal&count_private=true&show_icons=true&theme=highcontrast)
+
+
 <!--
 **Lakhiwal/Lakhiwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
