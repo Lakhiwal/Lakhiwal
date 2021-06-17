@@ -4,7 +4,10 @@
 </p>
 <h3 align="center">Programmer | Gamer | Content Writer </h3>
 <em></em>
-<p align="center">Pages where you van follow me</p>
+<p align="center">
+    <img align="center" alt="visitors" src="https://gpvc.arturio.dev/Lakhiwal" />
+</p>
+
 <p align="center">
 <br>
 <a href="https://www.facebook.com/lakhiwalmanish"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>&nbsp;
