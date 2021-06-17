@@ -13,8 +13,8 @@
 -  🔭 I’m currently working on improving my skills.<br>
 -  🌱 I’m currently learning Python.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lakhiwal&layout=compact&theme=highcontrast)](https://github.com/mikeowino/)<hr>
-![MikeOwino's github stats](https://github-readme-stats.vercel.app/api?username=Lakhiwal&count_private=true&show_icons=true&theme=highcontrast)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lakhiwal&layout=compact&theme=highcontrast)](https://github.com/mikeowino/)
+![Lakhiwal's github stats](https://github-readme-stats.vercel.app/api?username=Lakhiwal&count_private=true&show_icons=true&theme=highcontrast)
 
 
 <!--
