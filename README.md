@@ -2,7 +2,7 @@
 <p align="center">
   <img src=https://github.com/Lakhiwal/Lakhiwal/blob/main/images/background.gif height=450px/>
 </p>
-<h3 align="center">Programmer | Gamer | Content Writer </h3>
+<h3 align="center">Programmer | Gamer | Football Fan </h3>
 <p align="center">Languages & Tools...
 <p style="center">
 <em></em>
