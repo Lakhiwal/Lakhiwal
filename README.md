@@ -1,6 +1,6 @@
-<h1 align="center">Hi <img src="https://github.com/Lakhiwal/Lakhiwal/blob/main/images/Hi.gif" width=100%> Visitor. I'm Manish, Welcome to my pofile </h1>
+<h1 align="center">Hi <img src="https://github.com/Lakhiwal/Lakhiwal/blob/main/images/Hi.gif" width=30px> Visitor. I'm Manish, Welcome to my pofile </h1>
 <p align="center">
-  <img src=https://github.com/Lakhiwal/Lakhiwal/blob/main/images/background.gif height=450px/>
+  <img src=https://github.com/Lakhiwal/Lakhiwal/blob/main/images/background.gif width=100%/>
 </p>
 <h3 align="center">Programmer | Gamer | Football Fan </h3>
 <p align="center">Languages & Tools...
