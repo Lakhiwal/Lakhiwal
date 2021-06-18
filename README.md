@@ -10,6 +10,7 @@
 <img src="https://github.com/Lakhiwal/Lakhiwal/blob/main/resources/java.svg" alt="java" style="certical-align:top; margin:4px"></img>
 <img src="https://github.com/Lakhiwal/Lakhiwal/blob/main/resources/python.svg" alt="python" style="certical-align:top; margin:4px"></img>
 <img src="https://github.com/Lakhiwal/Lakhiwal/blob/main/resources/csharp.svg" alt="c#" style="certical-align:top; margin:4px"></img>
+<img src="https://github.com/Lakhiwal/Lakhiwal/blob/main/resources/css3.svg" alt="CSS" style="certical-align:top; margin:4px"></img>
 <img src="https://github.com/Lakhiwal/Lakhiwal/blob/main/resources/html.svg" alt="HTML" style="certical-align:top; margin:4px"></img>
 <img src="https://github.com/Lakhiwal/Lakhiwal/blob/main/resources/android_studio_colour.svg" alt="Android Studio" style="certical-align:top; margin:4px"></img>
 <img src="https://github.com/Lakhiwal/Lakhiwal/blob/main/resources/jetbrains_intellij.svg" alt="Intellij" style="certical-align:top; margin:4px"></img>
