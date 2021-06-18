@@ -39,9 +39,9 @@
 
 ### :zap: Github Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=Jas-Lakhiwal&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="Jaskirat's GitHub Stats" align="center">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Lakhiwal&count_private=true&theme=radical" alt="Jas-Script" />
-<img align="center" width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lakhiwal&count_private=true&theme=radical" alt="Jas-Script" />
+<img src="https://github-readme-stats.vercel.app/api?username=Lakhiwal&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="Lakhiwal's GitHub Stats">
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Lakhiwal&count_private=true&theme=radical" alt="Lakhiwal" />
+<img align="center" width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lakhiwal&count_private=true&theme=radical" alt="Lakhiwal" />
 
 
 
