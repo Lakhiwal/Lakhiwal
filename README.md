@@ -16,6 +16,7 @@
 <img src="https://github.com/Lakhiwal/Lakhiwal/blob/main/resources/jetbrains_intellij.svg" alt="Intellij" style="certical-align:top; margin:4px"></img>
 <img src="https://github.com/Lakhiwal/Lakhiwal/blob/main/resources/visualstudio_code.svg" alt="vs code" style="certical-align:top; margin:4px"></img>
 <img src="https://github.com/Lakhiwal/Lakhiwal/blob/main/resources/aws.svg" alt="AWS" style="certical-align:top; margin:4px"></img>
+<img src="https://github.com/Lakhiwal/Lakhiwal/blob/main/resources/digitalocean.svg" alt="Digital Ocean" style="certical-align:top; margin:4px"></img>
 </p>
 <p align="center">
     <img align="center" alt="visitors" src="https://gpvc.arturio.dev/Lakhiwal" />
