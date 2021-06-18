@@ -39,7 +39,7 @@
 
 ### :zap: Github Stats
 
-<img align="left" width:45%![Lakhiwal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lakhiwal&show_icons=true&theme=radical)>
+<img style="align:left" width:45%"![Lakhiwal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lakhiwal&show_icons=true&theme=radical)>
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lakhiwal&layout=compact)](https://github.com/Lakhiwal/github-readme-stats)
 
 
