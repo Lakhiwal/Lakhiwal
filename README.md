@@ -31,9 +31,9 @@
 
 ### :zap: Github Stats
 
-  <img align="center" src="https://github-readme-stats.sumanth-talluri.vercel.app/api?username=Lakhiwal&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Lakhiwal's Github Stats" width="95%">
+  <img align="left" src="https://github-readme-stats.sumanth-talluri.vercel.app/api?username=Lakhiwal&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Lakhiwal's Github Stats" width="50%">
   
-<img align="center" src="https://github-readme-stats.sumanth-talluri.vercel.app/api/top-langs/?username=Lakhiwal&show_icons=true&hide_border=true&theme=radical" width="50%" alt="Lakhiwal's Top Languages">
+<img src="https://github-readme-stats.sumanth-talluri.vercel.app/api/top-langs/?username=Lakhiwal&show_icons=true&hide_border=true&theme=radical" width="50%" alt="Lakhiwal's Top Languages">
 
 
 <!--
