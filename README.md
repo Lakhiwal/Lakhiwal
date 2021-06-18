@@ -20,6 +20,8 @@
 <img src="https://github.com/Lakhiwal/Lakhiwal/blob/main/resources/raspberrypi.svg" alt="Raspberry Pi" style="certical-align:top; margin:4px"></img>
 <img src="https://github.com/Lakhiwal/Lakhiwal/blob/main/resources/eclipse.svg" alt="Eclipse IDE" style="certical-align:top; margin:4px"></img>
 <img src="https://github.com/Lakhiwal/Lakhiwal/blob/main/resources/hackerrank.svg" alt="Hackerrank" style="certical-align:top; margin:4px"></img>
+<img src="https://github.com/Lakhiwal/Lakhiwal/blob/main/resources/js.svg" alt="JavaScript" style="certical-align:top; margin:4px"></img>
+<img src="https://github.com/Lakhiwal/Lakhiwal/blob/main/resources/web.svg" alt="Web" style="certical-align:top; margin:4px"></img>
 </p>
 <p align="center">
     <img align="center" alt="visitors" src="https://gpvc.arturio.dev/Lakhiwal" />
