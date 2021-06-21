@@ -39,8 +39,8 @@
 
 <p align="center">:zap: Github Stats </p>
 
-<a align="center" width=70%><img align="center" src="https://github-readme-stats.vercel.app/api?username=Lakhiwal&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="Lakhiwal's GitHub Stats"></a>
-<a align="center" width=70%><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Lakhiwal&count_private=true&theme=radical" alt="Lakhiwal" /></a>
+<a align="center" width=70%><img align="center" src="https://github-readme-stats.vercel.app/api?username=Lakhiwal&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="Lakhiwal's GitHub Stats"></a><nr>
+<a align="center" width=70%><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Lakhiwal&count_private=true&theme=radical" alt="Lakhiwal" /></a></br>
 <a align="center" width="auto"><img align="center" width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lakhiwal&count_private=true&theme=radical" alt="Lakhiwal" /></a>
 
   
