@@ -43,6 +43,11 @@
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Lakhiwal&count_private=true&theme=radical" alt="Lakhiwal" />
 <img align="center" width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lakhiwal&count_private=true&theme=radical" alt="Lakhiwal" />
 
+#### Spotify Playing 🎧
+
+[![Spotify](https://novatorem.visualbean.vercel.app/api/spotify)](https://open.spotify.com/playlist/5DyEmRfSH3SzDzkM9iHCAN?si=ea4e543bcca34886)
+
+---
 
 
 
