@@ -43,14 +43,14 @@
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Lakhiwal&count_private=true&theme=radical" alt="Lakhiwal" />
 <img align="center" width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lakhiwal&count_private=true&theme=radical" alt="Lakhiwal" />
 
-
+#### Spotify Playing 🎧
 <table width="50%" align="center"> 
   <tr>
   <td width="50%" align="center">
       
-&nbsp; <br> #### Spotify Playing 🎧
+&nbsp; <br> 
 
-[![Spotify](https://novatorem.visualbean.vercel.app/api/spotify)](https://open.spotify.com/user/4nburt2mhqvbt2rx0s6l27egj)
+[![Spotify](https://novatorem.visualbean.vercel.app/api/spotify)](https://open.spotify.com/user/31ioowdi3bgwgm2bozo73v257v4m)
 
 
   </td>
