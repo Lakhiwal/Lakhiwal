@@ -44,9 +44,9 @@
 <img align="center" width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lakhiwal&count_private=true&theme=radical" alt="Lakhiwal" />
 
 #### Spotify Playing 🎧
-<table width="100%" align="center"> 
+<table width="50%" align="center"> 
   <tr>
-  <td width="50%">
+  <td width="50%" align="center">
       
 &nbsp; <br> [![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/omnitenebris)
 
