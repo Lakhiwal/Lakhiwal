@@ -50,7 +50,7 @@
 
   > GitHub 4 life 
 
-  [![GitHub Game of Life](https://github4life.herokuapp.com/Lakhiwal.gif?z=6)](https://github4life.herokuapp.com/Lakhiwal)
+  [![GitHub Game of Life](https://github4life.herokuapp.com/Lakhiwal.gif?z=4)](https://github4life.herokuapp.com/Lakhiwal)
   </div>
 
 <hr>
