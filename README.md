@@ -53,12 +53,10 @@
 &nbsp; <br> 
 
 [![Spotify](https://novatorem.visualbean.vercel.app/api/spotify)](https://open.spotify.com/user/31ioowdi3bgwgm2bozo73v257v4m)
-
-
-  </td>
-  
-
----
+</td>
+  ---
+    
+    [!Lakhiwal's contribution graph as a Game of Life](https://github4life.herokuapp.com/ethomson.gif)](https://github4life.herokuapp.com/Lakhiwal)
 
 
 
