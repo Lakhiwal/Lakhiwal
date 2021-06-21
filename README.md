@@ -36,6 +36,7 @@
 
 -  🔭 I’m currently working on improving my skills.<br>
 -  🌱 I’m currently learning Python.
+  <br>
 
 <p align="center">:zap: Github Stats </p>
 
