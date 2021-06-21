@@ -44,6 +44,7 @@
 <a align="center" width=70%><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Lakhiwal&count_private=true&theme=radical" alt="Lakhiwal" /></a><br>
 <a align="center" width="auto"><img align="center" width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lakhiwal&count_private=true&theme=radical" alt="Lakhiwal" /></a>
 
+[![Lakhiwal's contribution graph as a Game of Life](https://github4life.herokuapp.com/ethomson.gif)](https://github4life.herokuapp.com/Lakhiwal)
   
 #### Spotify Playing 🎧
 <table width="50%" align="center"> 
@@ -56,7 +57,7 @@
 </td>
   ---
     
-    [!Lakhiwal's contribution graph as a Game of Life](https://github4life.herokuapp.com/ethomson.gif)](https://github4life.herokuapp.com/Lakhiwal)
+    
 
 
 
