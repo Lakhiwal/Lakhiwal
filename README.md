@@ -48,7 +48,7 @@
   <tr>
   <td width="50%" align="center">
       
-&nbsp; <br> [![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/omnitenebris)
+&nbsp; <br> [![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/playlist/5DyEmRfSH3SzDzkM9iHCAN?si=eabc661df13e4588)
 
   </td>
   
