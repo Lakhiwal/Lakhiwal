@@ -44,7 +44,8 @@
 <img align="center" width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lakhiwal&count_private=true&theme=radical" alt="Lakhiwal" />
 
 #### Spotify Playing 🎧
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31ioowdi3bgwgm2bozo73v257v4m&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
+<img align="center">
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31ioowdi3bgwgm2bozo73v257v4m&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)</img>
 ---
 
 
