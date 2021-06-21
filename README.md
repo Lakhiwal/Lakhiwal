@@ -40,7 +40,12 @@
 
 <p align="center">:zap: Github Stats </p>
 
-<a align="center" width=70%><img align="center" src="https://github-readme-stats.vercel.app/api?username=Lakhiwal&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="Lakhiwal's GitHub Stats"></a><br>
+<table width="50%" align="center"> 
+  <tr>
+    <td width="50%" align="center">
+
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Lakhiwal&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="Lakhiwal's GitHub Stats"></a></td></tr>
 <a align="center" width=70%><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Lakhiwal&count_private=true&theme=radical" alt="Lakhiwal" /></a><br>
 <a align="center" width="auto"><img align="center" width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lakhiwal&count_private=true&theme=radical" alt="Lakhiwal" /></a>
 
@@ -59,12 +64,13 @@
 #### Spotify Playing 🎧
 <table width="50%" align="center"> 
   <tr>
-  <td width="50%" align="center">
+    <td width="50%" align="center">
       
 &nbsp; <br> 
 
 [![Spotify](https://novatorem.visualbean.vercel.app/api/spotify)](https://open.spotify.com/user/31ioowdi3bgwgm2bozo73v257v4m)
 </td>
+  </tr>
   
     
     
