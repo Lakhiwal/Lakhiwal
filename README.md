@@ -45,7 +45,7 @@
 
 #### Spotify Playing 🎧
 
-[![Spotify](https://novatorem.visualbean.vercel.app/api/spotify)](https://open.spotify.com/playlist/5DyEmRfSH3SzDzkM9iHCAN?si=ea4e543bcca34886)
+<iframe src="https://open.spotify.com/embed/playlist/5DyEmRfSH3SzDzkM9iHCAN" width="100%" height="80" frameBorder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 ---
 
