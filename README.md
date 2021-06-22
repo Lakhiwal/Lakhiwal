@@ -56,7 +56,7 @@
 <hr>
 
   
-#### Spotify Playing 🎧
+#### <p align="center">Spotify Playing 🎧></p>
 <table width="50%" align="center"> 
   <tr>
     <td width="50%" align="center">
