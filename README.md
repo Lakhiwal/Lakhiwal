@@ -152,11 +152,17 @@ A dashboard for researching and analysing debtor/company information using:
 
 ---
 
-## 📊 GitHub Activity
+## 📈 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Lakhiwal&theme=github-compact&hide_border=true" width="95%" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Lakhiwal&show_icons=true&hide_border=true&theme=transparent" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lakhiwal&layout=compact&hide_border=true&theme=transparent" />
+
+<br>
+
+<img src="https://streak-stats.demolab.com?user=Lakhiwal&hide_border=true&theme=transparent" />
 
 </div>
 
@@ -169,13 +175,5 @@ A dashboard for researching and analysing debtor/company information using:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manish-lakhiwal/)
 [![Email](https://img.shields.io/badge/Email-lakhiwal43%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lakhiwal43@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Lakhiwal-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Lakhiwal)
-
-</div>
-
----
-
-<div align="center">
-
-### Code. Build. Ship. Improve.
 
 </div>
