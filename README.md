@@ -152,22 +152,6 @@ A dashboard for researching and analysing debtor/company information using:
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Lakhiwal&show_icons=true&hide_border=true&theme=transparent" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lakhiwal&layout=compact&hide_border=true&theme=transparent" />
-
-<br>
-
-<img src="https://streak-stats.demolab.com?user=Lakhiwal&hide_border=true&theme=transparent" />
-
-</div>
-
----
-
 ## 🤝 Connect With Me
 
 <div align="center">
