@@ -1,150 +1,154 @@
 <div align="center">
 
-# Hi, I'm Manish Lakhiwal 👋
+<img src="https://github.com/Lakhiwal/Lakhiwal/blob/main/images/background.gif" width="100%" alt="Manish Lakhiwal banner"/>
 
-### Full Stack Developer • Flutter Developer • Java & Spring Boot
+# Manish Lakhiwal
 
-I build mobile apps, backend systems, APIs, and web applications with a focus on clean architecture, practical solutions, and reliable user experiences.
+### building apps from the UI down to the database.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Manish%20Lakhiwal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manish-lakhiwal/)
-[![Gmail](https://img.shields.io/badge/Gmail-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lakhiwal43@gmail.com)
+`Flutter` · `Java` · `Spring Boot` · `Django` · `Next.js`
+
+<br>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manish-lakhiwal/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:lakhiwal43@gmail.com)
+[![GitHub](https://img.shields.io/badge/@Lakhiwal-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Lakhiwal)
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+### `> whoami`
 
-- 💻 Full Stack Developer working across **mobile, backend, and web development**
-- 📱 Building production applications with **Flutter & Dart**
-- ☕ Working with **Java, Spring Boot, REST APIs, and SQL**
-- 🌐 Experience with **Django, Next.js, TypeScript, JavaScript, HTML & CSS**
-- 🗄️ Working with relational databases including **PostgreSQL**
-- ☁️ Interested in cloud infrastructure, deployment, and scalable backend systems
-- 🧠 Currently improving my **Data Structures, System Design, Spring Boot, and AI engineering** skills
-- ⚽ Football fan
-- 🎮 Gamer
-- 🔧 I enjoy building products more than collecting frameworks
+I'm a full-stack developer who spends most of his time somewhere between a Flutter screen, an API endpoint, and a PostgreSQL query.
+
+Currently working primarily with **Flutter, Java/Spring Boot, Django and Next.js**.
+
+I like building software that actually gets used — mobile apps, internal tools, dashboards and backend systems — and figuring out the annoying parts between development and shipping them.
+
+When I'm not coding, there's a good chance I'm watching football or playing something.
 
 ---
 
-## 🛠️ Tech Stack
+### `> stack`
 
-### Languages
+<div align="center">
 
-<p>
-  <img src="https://skillicons.dev/icons?i=java,dart,python,js,ts,html,css" />
-</p>
+#### Code
 
-### Frameworks & Development
+<img src="https://skillicons.dev/icons?i=java,dart,python,js,ts,html,css&perline=7" />
 
-<p>
-  <img src="https://skillicons.dev/icons?i=spring,flutter,django,nextjs,react,tailwind" />
-</p>
+<br><br>
 
-### Databases
+#### Build
 
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite" />
-</p>
+<img src="https://skillicons.dev/icons?i=flutter,spring,django,nextjs,react,tailwind&perline=6" />
 
-### Tools & Platforms
+<br><br>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,firebase,aws,androidstudio,idea,vscode" />
-</p>
+#### Data & Infrastructure
 
----
+<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,firebase,docker,aws&perline=6" />
 
-## 🚀 What I'm Working On
+<br><br>
 
-### 📱 Mobile Development
+#### Daily Drivers
 
-Building Flutter applications with features such as:
+<img src="https://skillicons.dev/icons?i=git,github,linux,androidstudio,idea,vscode&perline=6" />
 
-- Authentication & OTP flows
-- REST API integration
-- Firebase Cloud Messaging
-- Biometric authentication
-- Local notifications
-- Charts & analytics
-- Secure storage
-- Play Store deployment
-- Android release management
-
-### ⚙️ Backend Development
-
-Working with:
-
-- Java & Spring Boot
-- Django REST APIs
-- PostgreSQL
-- Authentication & authorization
-- RESTful API design
-- Database modelling
-- Backend integrations
-
-### 🌐 Web Development
-
-Building modern web applications using:
-
-- Next.js
-- TypeScript
-- React
-- Tailwind CSS
-- API integrations
+</div>
 
 ---
 
-## 📌 Featured Projects
+### `> currently_building`
+
+<table>
+<tr>
+<td width="50%" valign="top">
 
 ### 🏋️ SetSutra
 
-An offline-first workout tracking application built with Flutter.
+An offline-first workout logger built because workout tracking shouldn't require your entire life to live on somebody else's server.
 
-**Focus areas:**
+**Flutter · Dart · Local Storage**
 
-- Workout logging
-- Local-first data
-- Privacy-focused design
-- Clean UI/UX
-- Android deployment
+- Offline-first
+- Privacy focused
+- Workout & set tracking
+- Android
 
----
+</td>
 
-### 💰 Finworks360 Investor App
+<td width="50%" valign="top">
 
-Flutter-based investment platform application with:
+### 💰 Finworks360
 
-- Investor authentication
-- Marketplace
-- Portfolio tracking
+An investor-facing Flutter application connected to a production financial platform.
+
+**Flutter · REST APIs · Firebase**
+
+- Marketplace & portfolio
+- Wallet workflows
 - Analytics
-- Wallet management
-- Notifications
-- Investment workflows
+- Push notifications
+- Biometric authentication
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🔎 Debtor Intelligence
+
+Company research and debtor-analysis tooling that combines structured business data with AI-assisted research.
+
+**Next.js · TypeScript · OpenAI · PostgreSQL**
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🧪 The Lab
+
+Usually contains some combination of:
+
+- Spring Boot experiments
+- Flutter UI ideas
+- API integrations
+- System design practice
+- AI-assisted workflows
+
+</td>
+</tr>
+</table>
 
 ---
 
-### 📊 Debtor Intelligence Dashboard
+### `> things_i_care_about`
 
-A dashboard for researching and analysing debtor/company information using:
+```text
+clean APIs          > clever APIs
+shipping            > endless rewriting
+useful software     > framework collecting
+simple architecture > unnecessary abstraction
+```
 
-`Next.js` · `TypeScript` · `Tailwind CSS` · `OpenAI API` · `Web Search` · `Structured Data`
+Currently digging deeper into:
+
+**System Design** · **Spring Boot** · **DSA** · **Applied AI Engineering**
 
 ---
 
-## 📈 GitHub Stats
+### `> github.stats`
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Lakhiwal&show_icons=true&hide_border=true&theme=transparent" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Lakhiwal&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lakhiwal&layout=compact&hide_border=true&theme=transparent" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lakhiwal&layout=compact&hide_border=true&theme=transparent&langs_count=8" />
 
-</div>
-
-<div align="center">
+<br>
 
 <img src="https://streak-stats.demolab.com?user=Lakhiwal&hide_border=true&theme=transparent" />
 
@@ -152,12 +156,12 @@ A dashboard for researching and analysing debtor/company information using:
 
 ---
 
-## 🤝 Connect With Me
-
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manish-lakhiwal/)
-[![Email](https://img.shields.io/badge/Email-lakhiwal43%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lakhiwal43@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Lakhiwal-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Lakhiwal)
+```text
+build → break → debug → ship → repeat
+```
+
+<sub>Far too much time has probably been spent debugging something that turned out to be one line.</sub>
 
 </div>
